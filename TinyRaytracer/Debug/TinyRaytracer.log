@@ -1,0 +1,9 @@
+﻿  TinyRaytracer.cpp
+C:\Pet\Tiny\TinyRaytracer\TinyRaytracer\TinyRaytracer\stb_image_write.h(776,13): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Pet\Tiny\TinyRaytracer\TinyRaytracer\TinyRaytracer\geometry.h(8,4): warning C4244: инициализация: преобразование "float" в "uint8_t", возможна потеря данных
+C:\Pet\Tiny\TinyRaytracer\TinyRaytracer\TinyRaytracer\geometry.h(9,4): warning C4244: инициализация: преобразование "float" в "uint8_t", возможна потеря данных
+C:\Pet\Tiny\TinyRaytracer\TinyRaytracer\TinyRaytracer\geometry.h(10,4): warning C4244: инициализация: преобразование "float" в "uint8_t", возможна потеря данных
+C:\Pet\Tiny\TinyRaytracer\TinyRaytracer\TinyRaytracer\geometry.h(14,4): warning C4244: инициализация: преобразование "float" в "uint8_t", возможна потеря данных
+C:\Pet\Tiny\TinyRaytracer\TinyRaytracer\TinyRaytracer\geometry.h(15,4): warning C4244: инициализация: преобразование "float" в "uint8_t", возможна потеря данных
+C:\Pet\Tiny\TinyRaytracer\TinyRaytracer\TinyRaytracer\geometry.h(16,4): warning C4244: инициализация: преобразование "float" в "uint8_t", возможна потеря данных
+C:\Pet\Tiny\TinyRaytracer\TinyRaytracer\TinyRaytracer\TinyRaytracer.cpp(21,26): warning C4244: return: преобразование "float" в "uint8_t", возможна потеря данных
